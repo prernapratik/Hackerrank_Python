@@ -16,8 +16,10 @@ Sample Output 0
 
 hACKERrANK.COM PRESENTS "pYTHONIST 2"."""
 
+
 def swap_case(s):
     return s.swapcase()
+
 
 if __name__ == '__main__':
     s = input()
